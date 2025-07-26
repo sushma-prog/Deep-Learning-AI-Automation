@@ -54,7 +54,7 @@ Input: (28, 28, 1) grayscale image
 
 ### 📊 **Model Results**
 
-* Training Accuracy: ✅ \~99%
+* Training Accuracy: ✅ \~96%
 * Validation Accuracy: ✅ \~91%
 * Final Evaluation on test set showed strong generalization.
 * Confusion Matrix revealed minor misclassifications (e.g., shirt vs. top).
