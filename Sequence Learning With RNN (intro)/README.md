@@ -43,8 +43,8 @@ Input (Movie Review Sequences)
 
 ### 📊 **Results**
 
-* Training Accuracy: ✅ \~98%
-* Validation Accuracy: ✅ \~89%
+* Training Accuracy: ✅ \~96%
+* Validation Accuracy: ✅ \~86%
 * Confusion Matrix: Good performance, with some misclassifications
 * **Model correctly learned to differentiate positive vs. negative reviews**
 
