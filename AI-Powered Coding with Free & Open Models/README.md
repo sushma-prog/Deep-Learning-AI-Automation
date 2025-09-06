@@ -82,3 +82,5 @@ Created **`AI_Powered_Coding.ipynb`** where:
 ✨ This project shows how **AI can assist in writing, testing, and explaining code** — making coding faster, easier, and more beginner-friendly.
 
 ---
+
+<img width="1439" height="701" alt="image" src="https://github.com/user-attachments/assets/79caee42-0cfe-4eb2-96a3-88e94fff3b05" />
